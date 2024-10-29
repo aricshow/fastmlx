@@ -1,4 +1,11 @@
-.DS_Store
-__pycache__
-*.egg-info
-venv/*
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
